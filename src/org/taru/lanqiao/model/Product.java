@@ -1,6 +1,6 @@
 package org.taru.lanqiao.model;
 
-public class product {
+public class Product {
     private String productId;
     private String productName;
     private String productPhoto;
