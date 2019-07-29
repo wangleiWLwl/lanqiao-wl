@@ -34,8 +34,7 @@ public class Category {
 	public String getCategoryStatus() {
 		return categoryStatus;
 	}
-	public void setCategoryStatus(String categoryStatus) {
-		this.categoryStatus = categoryStatus;
+	public void setCategoryStatus(String categoryStatus) {this.categoryStatus = categoryStatus;
 	}
 	
 	
